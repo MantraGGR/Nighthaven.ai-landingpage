@@ -89,7 +89,7 @@ export const Hero = () => {
                   placeholder="johndoe@gmail.com"
                   className="w-full py-3 outline-none bg-transparent"
                 />
-                <Button type="submit" className="min-w-max text-white">
+                <Button className="min-w-max text-white">
                   <span className="relative z-[5]">Get Started</span>
                 </Button>
               </form>
